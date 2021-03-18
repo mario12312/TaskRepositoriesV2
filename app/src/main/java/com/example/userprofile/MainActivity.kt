@@ -2,6 +2,7 @@ package com.example.userprofile
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import com.example.userprofile.ui.main.MainFragment
 
 class MainActivity : AppCompatActivity() {
